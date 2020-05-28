@@ -1,0 +1,4 @@
+baseURL = "http://tyhoff.com/"
+languageCode = "en-us"
+title = "tyhoff"
+theme = "anubis"
