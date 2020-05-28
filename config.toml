@@ -1,4 +1,4 @@
-baseURL = "http://tyhoff.com/"
+baseURL = "https://tyhoff.com/"
 languageCode = "en-us"
 title = "tyhoff"
 theme = "anubis"
